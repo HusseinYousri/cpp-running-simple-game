@@ -1,32 +1,22 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
+# Ignore build files
+*.exe
 *.o
 *.obj
 
-# Precompiled Headers
-*.gch
-*.pch
+# Ignore log and temporary files
+*.log
+*.tmp
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+# Ignore texture files
+textures/*.png
 
-# Fortran module files
-*.mod
-*.smod
+# Ignore system files
+.DS_Store
+Thumbs.db
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
+# Ignore IDE and editor files
+.vscode/
+*.code-workspace
 
-# Executables
-*.exe
-*.out
-*.app
+# Ignore debug symbols
+*.dsym
