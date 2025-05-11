@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# cpp-running-simple-game
-=======
 # C++ Runner Game Improved
 
 ## Overview
@@ -16,4 +13,3 @@ This project demonstrates my learning journey in game development using C++ and 
 
 ## Final Thoughts
 I consider this project complete and do not plan to revisit it. However, if I were to improve anything, it would definitely be the code organization.
->>>>>>> 9bdc940 (Initial commit)
